@@ -1,29 +1,28 @@
-- 👋 Hi, I am Mohd Aftab
-- 👀 I’m interested in learning new things specially coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : web.dev.aftab@gmail.com
+
 
 <!---
 devaftab/devaftab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### Hi there 👋
+## Hi learners 👋
 
-I am **Mohd Aftab**
+This is **Mohd Aftab**
 
 ## About Me
 
-I am a student who loves learning new things.
+I am rapid learners.
+Currently I am busy to excel HTML AND CSS
 
 Follow Me At:
 
-[https://www.instagram.com/enniepant/](https://www.instagram.com/enniepant/)
+[https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj]
 
 ## Coding Skills
 
 <p>
-  <img src = "https://achievement-images.teamtreehouse.com/badges_intro_to_html_css_stage-01.png" height ="70px"/>
+  HTML
+  CSS
+  SCSS
   
   </p>
   
@@ -32,17 +31,18 @@ Follow Me At:
  - **Language Skills**
   
     - English
-    - Nepali
+    - Arbi
+    - Urdu
     - Hindi
-    - Spanish
+    - Punjabi
 
 - **Skills I'm Learning**
   
-    - C/C++
+    - JAVASCRIPT
 
  ## Contact Me
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/bpnt/github-readme-stats)
+ [(https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/devaftab/github-readme-stats)
 
  
     
