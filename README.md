@@ -4,7 +4,7 @@
 devaftab/devaftab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Hi learners 👋
+### Hi learners 👋
 
 This is **Mohd Aftab**
 
@@ -15,16 +15,16 @@ Currently I am busy to excel HTML AND CSS
 
 Follow Me At:
 
-[https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj]
+https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj
 
 ## Coding Skills
 
-<p>
+<li>
   HTML
   CSS
   SCSS
   
-  </p>
+  </li>
   
  ## Other Skills
  
@@ -42,7 +42,7 @@ Follow Me At:
 
  ## Contact Me
  
- [(https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/devaftab/github-readme-stats)
+ https://github-readme-stats.vercel.app/api?username=bpnt)](https://github.com/devaftab/github-readme-stats
 
  
     
