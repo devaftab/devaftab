@@ -45,7 +45,7 @@ https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj
 
  ## Contact Me
  
- https://github-readme-stats.vercel.app/api?username=devaftab)](https://github.com/devaftab/github-readme-stats
+ Web.dev.aftab@gmail.com
 
  
     
