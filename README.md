@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @devaftab
-- 👀 I’m interested in learning new things specially in coding
+- 👋 Hi, I am Mohd Aftab
+- 👀 I’m interested in learning new things specially coding
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : web.dev.aftab@gmail.com
