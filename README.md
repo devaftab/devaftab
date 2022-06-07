@@ -10,8 +10,7 @@ This is **Mohd Aftab**
 
 ## About Me
 
-I am rapid learners.
-Currently I am busy to excel HTML AND CSS
+I am rapid learner and a technophile. 
 
 
 ## Coding Skills
