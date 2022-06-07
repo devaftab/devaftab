@@ -10,7 +10,7 @@ This is **Mohd Aftab**
 
 ## About Me
 
-I am rapid learner and a technophile. 
+I am rapid learner and a technophile. Currently pursing Bachelor of Technology in Computer Science and Engineering from **USICT**.
 
 
 ## Coding Skills
