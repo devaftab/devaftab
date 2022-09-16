@@ -46,7 +46,7 @@ LinkedIn  : https://www.linkedin.com/in/mohd-aftab-a9a730191/ <br>
 
  ## Contact Me
  
- Web.dev.aftab@gmail.com
+ web.dev.aftab@gmail.com
 
  
     
