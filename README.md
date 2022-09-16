@@ -16,10 +16,12 @@ I am rapid learner and a technophile. Currently pursing Bachelor of Technology i
 ## Coding Skills
 
 
-  - HTML
-  - CSS
+  - MERN Full Stack
+  - JAVA
+  - C
+  - C++
   - SCSS
-  - Basic Python
+  - PYTHON Programing Language
   
   
  ## Other Skills
@@ -34,15 +36,13 @@ I am rapid learner and a technophile. Currently pursing Bachelor of Technology i
 
 - **Skills to be added**
   
-    - JAVASCRIPT
-    - C++
     - Java
 
  ## Follow Me At :
 
 Instagram : https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj <br>
 Facebook  : https://www.facebook.com/devaftab <br>
-LinkedIn  : https://www.linkedin.com/in/mohd-aftab-alam-a9a730191?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFtPFZgl9R968KQkCZ1RVRQ%3D%3D <br>
+LinkedIn  : https://www.linkedin.com/in/mohd-aftab-a9a730191/ <br>
 
  ## Contact Me
  
