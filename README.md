@@ -32,7 +32,6 @@ I am rapid learner and a technophile. Currently pursing Bachelor of Technology i
     - Hindi
     - Punjabi
     - Urdu
-    - Arbi
 
 - **Skills to be added**
   
