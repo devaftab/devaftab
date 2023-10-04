@@ -17,7 +17,6 @@ I am rapid learner and a technophile. Currently pursing Bachelor of Technology i
 
 
   - MERN Full Stack
-  - JAVA
   - C
   - C++
   - SCSS
@@ -32,16 +31,13 @@ I am rapid learner and a technophile. Currently pursing Bachelor of Technology i
     - Hindi
     - Punjabi
     - Urdu
-
-- **Skills to be added**
-  
-    - Java
+    -   
 
  ## Follow Me At :
 
-Instagram : https://www.instagram.com/invites/contact/?i=1rmz38guk831h&utm_content=2j410oj <br>
+Instagram : https://www.instagram.com/dev_aftab<br>
 Facebook  : https://www.facebook.com/devaftab <br>
-LinkedIn  : https://www.linkedin.com/in/mohd-aftab-a9a730191/ <br>
+LinkedIn  : https://www.linkedin.com/in/devaftab/ <br>
 
  ## Contact Me
  
