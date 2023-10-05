@@ -1,8 +1,6 @@
 Hi 👋 My name is Mohd Aftab
 ===========================
 
-Web Developer
--------------
 
 I am rapid learner and a technophile. Currently pursing Bachelor of Technology in Computer Science and Engineering from USICT.
 
