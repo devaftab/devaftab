@@ -1,5 +1,5 @@
 Hi there, My name is Mohd Aftab
-===========================
+------------------------------
 
 
 I am rapid learner and a technophile. Currently pursing Bachelor of Technology in Computer Science and Engineering from USICT.
