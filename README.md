@@ -19,7 +19,7 @@ Hi there 👋, I’m Mohd Aftab – a passionate Full-Stack Developer and Softwa
 
 ---
 
-# 📊 GitHub Stats:
+# 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devaftab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=devaftab&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devaftab&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
