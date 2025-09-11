@@ -3,7 +3,7 @@ Hi there 👋, I’m Mohd Aftab – a passionate Full-Stack Developer and Softwa
 
 
 ## 🌐 Socials:
-🌍 Portfolio: [devaftab.vercel.app](https://devaftab.vercel.app)  
+🌍 Portfolio: [devaftab.vercel.app](https://portfolio-devaftab.vercel.app)  
 💼 LinkedIn: [linkedin.com/in/devaftab](https://www.linkedin.com/in/devaftab/)  
 💻 GitHub: [github.com/devaftab](https://github.com/devaftab)  
 📧 Email: [web.dev.aftab@gmail.com](mailto:web.dev.aftab@gmail.com) 
