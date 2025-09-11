@@ -13,7 +13,7 @@ Hi there 👋, I’m Mohd Aftab – a passionate Full-Stack Developer and Softwa
 
 ## 🏆 Achievements  
 
-- 🥇 **Best Student of the Year** + multiple **Gold Medals in athletics**  
+- 🥇 **Best Student of the Year Award** + multiple **Gold Medals in athletics**  
 - 💡 Solved **1000+ DSA problems** on LeetCode & GFG  
 - 🎯 Active in hackathons & tech events (Rajasthan IT Day, HackItSapiens)  
 
